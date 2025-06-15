@@ -1,0 +1,2 @@
+Bir sayı girilmesini istedikten sonra o sayıya kadar bütün sayıları faktöriyel olarak yazdıran kodu oluşturduk 
+somrasında bütün faktöriyellerin toplamını istedik sözlükte sakladık ve topladık .
